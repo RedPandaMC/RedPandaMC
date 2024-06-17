@@ -4,11 +4,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RedPandaMC&label=Profile%20views&color=0e75b6&style=flat" alt="RedPandaMC" />
   <img src="https://img.shields.io/github/followers/RedPandaMC?label=Followers" alt="RedPandaMC" />
-</p>
-
-<p align="center"> 
-  <a href="https://github.com/yourusername?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/github/stars/yourusername?label=Projects&style=social" alt="RedPandaMC" />
+  <a href="https://github.com/RedPandaMC?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/github/stars/RedPandaMC?label=Projects&style=social" alt="RedPandaMC" />
   </a> 
 </p>
 
