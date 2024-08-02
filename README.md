@@ -13,12 +13,12 @@
 
 ### 🌟 About Me
 - 🌱 I’m currently learning **Mojo, Obsidian.md, Bend?, ...**
-- 👨‍💻 All of my projects are available [here](https://github.com/yourusername?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/RedPandaMC?tab=repositories)
 - 🩷 Pronouns: **they/them**
 
 ### 📫 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/redpandas/" target="_blank">
+  <a href="https://www.linkedin.com/in/jurreandenys/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
