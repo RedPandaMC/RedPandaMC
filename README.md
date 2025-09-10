@@ -12,9 +12,7 @@
 ---
 
 ### 🌟 About Me
-- 🌱 I’m currently learning **Mojo, Obsidian.md, Bend?, ...**
 - 👨‍💻 All of my projects are available [here](https://github.com/RedPandaMC?tab=repositories)
-- 🩷 Pronouns: **they/them**
 
 ### 📫 Connect with Me
 <p align="left">
